@@ -20,28 +20,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="632676e9-3dbb-4463-a47e-daa5b5bc7d67" name="Default Changelist" comment="start project crypto news">
+      <change afterPath="$PROJECT_DIR$/cryptonews/crypto/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cryptonews/crypto/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cryptonews/crypto/templates/prices.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cryptonews/crypto/templates/searchprice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cryptonews/crypto/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Django-Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Django-Projects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cryptonews/cryptonews/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/cryptonews/cryptonews/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cryptonews/crypto/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/cryptonews/crypto/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cryptonews/cryptonews/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cryptonews/cryptonews/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1eMLVOkR53Wu0chGxZLhD0zapRD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -61,7 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594127551452</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="start project crypto news">
+      <created>1594134559231</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594134559231</updated>
+    </task>
+    <task id="LOCAL-00003" summary="start project crypto news">
+      <created>1594134567230</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594134567230</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,9 +112,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="start project crypto news" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1594127553769">
+    <state x="309" y="42" key="#Inspections" timestamp="1594134722215">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1594127553769" />
+    <state x="309" y="42" key="#Inspections/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1594134722215" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1594134742539">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1594134742539" />
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1594134568830">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1594134568830" />
   </component>
 </project>
