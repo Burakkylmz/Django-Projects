@@ -20,14 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="632676e9-3dbb-4463-a47e-daa5b5bc7d67" name="Default Changelist" comment="start project crypto news">
-      <change afterPath="$PROJECT_DIR$/cryptonews/crypto/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cryptonews/crypto/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cryptonews/crypto/templates/prices.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cryptonews/crypto/templates/searchprice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cryptonews/crypto/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Django-Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Django-Projects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cryptonews/crypto/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/cryptonews/crypto/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cryptonews/cryptonews/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cryptonews/cryptonews/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594134567230</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="start project crypto news">
+      <created>1594135719535</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594135719535</updated>
+    </task>
+    <task id="LOCAL-00005" summary="start project crypto news">
+      <created>1594135892498</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594135892498</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,9 +126,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1594134742539" />
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1594134568830">
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1594135894618">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1594134568830" />
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1594135894618" />
   </component>
 </project>
